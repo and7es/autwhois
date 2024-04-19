@@ -28,3 +28,10 @@ python autwhois.py -n MyCompany -d domains_list.txt -o outfile.txt -v
 ```
 
 
+**Result**:
+```
+python autwhois.py -n CompanyX -d domainsextensions.txt   
+companyx.com
+companyx.org
+companyx.net
+
