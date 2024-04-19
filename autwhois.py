@@ -47,3 +47,4 @@ with open(args.domainslist, "r") as f:
 	if args.output:
 		fileoutput.close()
 
+#test comment
