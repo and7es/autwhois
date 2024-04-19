@@ -20,7 +20,7 @@ with open(args.domainslist, "r") as f:
 	if args.output:
 		fileoutput = open(args.output, 'w')
 
-	#Revursive Whois
+	#Recursive Whois
 	for lastdomain in domainlist:
 
 		#Checking verbosity
