@@ -5,8 +5,8 @@ You can get an updated file with the most common domain extensions on the offici
 
 https://data.iana.org/TLD/tlds-alpha-by-domain.txt
 
-Example: 
+**Example**:
 
-python autwhois.py -n MyCompany -d domains_list.txt
+`python autwhois.py -n MyCompany -d domains_list.txt`
 
-python autwhois.py -n MyCompany -d domains_list.txt -o outfile.txt -v
+`python autwhois.py -n MyCompany -d domains_list.txt -o outfile.txt -v`
